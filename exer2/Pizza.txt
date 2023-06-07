@@ -1,0 +1,2 @@
+140.0;Bordas Rechedas;7;Bordas Rechedas;ddd;420.0
+100.0;Bordas nao Rechedas;7;Bordas nao Rechedas;ndmd;300.0
